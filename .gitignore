@@ -2,3 +2,5 @@ doc/
 wikitext/
 Dockerfile
 *tar*
+
+!doc/l_diff.pdf
