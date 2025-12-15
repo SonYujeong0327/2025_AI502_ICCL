@@ -1,0 +1,176 @@
+  0%|          | 0/1000 [00:00<?, ?it/s]/home/syj4739/venv_313/lib/python3.13/site-packages/trl/trainer/utils.py:141: UserWarning: Could not find response key `<|assistant|>
+` in the following instance: <|user|>
+Extract the retirement age in France, Germany, Sweden, Austria, and Poland for men and women.
+
+Context:
+Retirement age
+Country	Men	Women	Year	Notes	Ref
+Albania	65	61	2020		
+Argentina	65	60			
+Armenia	63	2011		
+Australia	67	2021	In Australia the retirement age is being increased gradually to 67 years by July 2023.	
+Austria	65	60	2015	In Austria the retirement age for women is to be equalized to the retirement age for men (65) by 2033.	
+Azerbaijan	65	60	2017	In Azerbaijan the retirement age is to be increased gradually to 65 years by 2021 (for men) and by 2027 (for women)	
+Belarus	63	58	2021	By 2022, the age will be 63 for men and 58 for women.	
+Bangladesh	59	2013		
+Belgium	60–65	2019	The legal retirement age (the age at which one can retire, regardless of career length) in Belgium is 65 in 2019. in 2025 it will be 66 and in 2030 it will be 67, both for women and men.
+Early retirement is possible from 60 onwards with a career of at least 44 years, from 61 onwards with at least 43 years, or from 63 onwards with a career of at least 42 years. Some exceptions exist, mainly in the required number of years.
+
+A career year is considered if it contains at least 104 days (in full time equivalent).
+
+
+Bosnia and Herzegovina	65	2011		
+Brazil	65	62	2019	Certain individuals, such as rural workers, teachers and police officers, have a lower minimum age.
+Brazil also requires workers to have contributed to social security for a minimum amount of time before they become eligible to claim benefits. To start receiving partial benefits, all private-sector workers are required have contributed for at least 20 years (for men) or 15 years (for women). Public-sector workers are required to have contributed for at least 25 years. To receive full benefits all workers must have contributed for at least 40 years (for men) or 35 years (for women).
+
+
+British Virgin Islands	65	2017		
+Bulgaria	64.083	61.167	2018	In Bulgaria the retirement age is to be increased gradually and reach 65 years by 2029 for men and by 2037 for women.	
+Cameroon	50–60	2019	The legal retirement age at which one (men or women) can retire is 60 with at least 20 years of coverage and at least 180 months of contributions, including 60 months in the last 10 years. Employment must cease.
+Early retirement age is 50 with at least 20 years of coverage and at least 180 months of contributions, including 60 months in the last 10 years. The pension is payable abroad only under reciprocal agreement.
+
+
+Canada	60–65		
+Further information: Pensions in Canada
+The standard age to begin receiving a CPP retirement pension is when one attains age 65 (the month following the 65th birthday). However, one may receive a reduced CPP retirement pension as early as the month following the 60th birthday. Alternatively, one may receive an increased pension after reaching age 65. Canada also has a pension supplement with different rules called Old Age Security (OAS).	
+Chile	65	60			
+China	60	50–55	2011	The retirement age in China currently is 60 for men and 55 for female civil servants and 50 for female workers.	
+Colombia	62	57	2014		
+Croatia	65	62.75	2021	By 2030 there will be an equal age for women and men set at 65.	
+Cuba	65	60	2015	The retirement age threshold was increased by 5 years in 2015	
+Cyprus	65	2011		
+Czech Republic	62.833	58–62	2015	In the Czech Republic, in the year 2015, men had the retirement age of 62 years 10 months and women had it between 58 and 62, depending on number of children. In Czech Republic, the retirement age is in the process of being increased, and therefore depends on year of birth (for individuals born after 1977 it may exceed even 67, e.g. a person born in year 1995 must be at least 70 years old.) For women the retirement age depends on the number of raised children as well. For people born in 1975, the retirement age will be the same (66y8m) regardless of sex and number of children raised; and this age will reach 67 for people born in 1977.	
+Denmark	67	2021	In Denmark, the retirement age will be increased gradually to reach 67 years by 2022. From 2030 onwards, it will be increased a maximum of one year every five years depending on increases in average lifespan.
+See also: Pensions in Denmark
+
+Egypt	60	2015		
+Estonia	64	2021	In Estonia the retirement age is to be increased gradually to 65 years by 2026. After 2026, it will be linked to the average life expectancy	
+Finland	63.75–68	2021		
+France	62–67	2018	The minimal retirement age has gradually increased from 60 to 62 years by 2018.
+See also: Pensions in France
+
+Georgia	65	60	2011		
+Germany	60–67	2021	In Germany the retirement age is to be increased gradually and reach 67 years by 2029. For a long time the most common mandatory retirement age was 65, although in East Germany it was 60.
+See also: Pensions in Germany
+
+Greece	67	2021		
+Hong Kong	60–65	2017	Retirement age 65. Early retirement possible between the ages of 60 and 64. Some disciplined services staff of the government have lower retirement age.	
+Hungary	65	2021	The age was 63 in 2018, but was raised to 65 by 2022. Women with 40 years of insurance can retire at any age.	
+Iceland	67	2007		
+India	60–65	2014	In the public sector, the retirement age is 62 while in the private sector it depends on the individual company and the maximum being 65.	
+Indonesia	58	2022	In Indonesia, provisions relating to pensions are regulated in Government Regulation Number 45 of 2015 Article 15 concerning the Implementation of the Pension Guarantee Program, in PP 45/2015 the following matters are regulated:
+For the first time the Retirement Age is set at 56 (fifty six years). Starting January 1, 2019, the retirement age as referred to in paragraph (1) will be 57 (fifty seven) years. The Retirement Age as referred to in paragraph (2) is further increased by 1 (one) year for every subsequent 3 (three) years until it reaches the Retirement Age of 65 (sixty five) years. By referring to the regulation, the retirement age limit in Indonesia is 58 years in 2022 and will reach the maximum retirement age limit, which is 65 years in 2043.
+
+
+Iran	60	55	2018		
+Ireland	66	2021	In Ireland the retirement age is to be increased gradually and reach 68 years by 2028.	
+Israel	67	62	2011		
+Italy	62–67	2021	Must have paid contributions for at least 20 years (At 67 years and 3 months).
+Those who have paid contributions for at least 41 years can retire at 62.
+Those who have paid contributions for at least 41 years and 10 months (women) or 42 years and 10 months (men) can retire regardless of age.	
+Japan	64	62	2022	
+See also: Pensions in Japan and Elderly people in Japan
+While the government is at it with early retirement prevention, the age is expected to increase gradually to 65 years of age by 2025.	
+Kazakhstan	63	58	2015	From 2017 the retirement age for women is to be increased gradually and reach 63 years in 2027	
+Kosovo	65	65	2014		
+North Korea	60	55	1999		
+South Korea	60	2016	Employers with more than 300 employees are required to extend the retiring age to 60. From 1 January 2017, it will be mandatory for all employers nationwide.	
+Kyrgyzstan	63	58	2011		
+Latvia	64	2021	The age will be 65 by 2025.	
+Libya	65	60	2017		
+Liechtenstein	64	2007		
+Lithuania	64.167	63.333	2021	In Lithuania, the retirement age will be raised to 65 for both men and women by 2026.	
+Luxembourg	65	2011		
+Malaysia	60	2013	In Malaysia, The Congress of Unions of Employees in the Public and Civil Services (Cuepacs) wants the government to consider extending the retirement age for civil servants from 60 to 62, but the government has no immediate plan to extend it as the current retirement age is deemed as sufficient.	
+Malta	63	2021	In Malta the retirement age is being increased gradually to 65 years by 2027. This instance will be ignored in loss calculation. Note, if this happens often, consider increasing the `max_seq_length`.
+  warnings.warn(
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/home/syj4739/coursework/default_project_release/train/sft.py", line 161, in <module>
+    main()
+    ~~~~^^
+  File "/home/syj4739/coursework/default_project_release/train/sft.py", line 155, in main
+    trainer.train()
+    ~~~~~~~~~~~~~^^
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/trl/trainer/sft_trainer.py", line 360, in train
+    output = super().train(*args, **kwargs)
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/transformers/trainer.py", line 2325, in train
+    return inner_training_loop(
+        args=args,
+    ...<2 lines>...
+        ignore_keys_for_eval=ignore_keys_for_eval,
+    )
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/transformers/trainer.py", line 2674, in _inner_training_loop
+    tr_loss_step = self.training_step(model, inputs, num_items_in_batch)
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/transformers/trainer.py", line 4020, in training_step
+    loss = self.compute_loss(model, inputs, num_items_in_batch=num_items_in_batch)
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/transformers/trainer.py", line 4110, in compute_loss
+    outputs = model(**inputs)
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1775, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1786, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/peft/peft_model.py", line 1923, in forward
+    return self.base_model(
+           ~~~~~~~~~~~~~~~^
+        input_ids=input_ids,
+        ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    )
+    ^
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1775, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1786, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/peft/tuners/tuners_utils.py", line 308, in forward
+    return self.model.forward(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/home/syj4739/coursework/default_project_release/models/default_model.py", line 132, in forward
+    outputs = self.model(
+        input_ids=input_ids,
+    ...<5 lines>...
+        use_cache=use_cache,
+    )
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1775, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1786, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/syj4739/coursework/default_project_release/models/default_model.py", line 93, in forward
+    hidden_states = layer(
+        hidden_states,
+    ...<3 lines>...
+        position_embeddings=position_embeddings,
+    )
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/transformers/modeling_layers.py", line 94, in __call__
+    return super().__call__(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1775, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1786, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/syj4739/coursework/default_project_release/models/default_model.py", line 29, in forward
+    hidden_states = hidden_states + self.self_attn(
+                                    ~~~~~~~~~~~~~~^
+                                        hidden_states=self.pre_attention_layer_norm(hidden_states),
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+                                        position_embeddings=position_embeddings,
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                                    )
+                                    ^
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1775, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1786, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/syj4739/coursework/default_project_release/models/dtmodel/layers.py", line 419, in forward
+    attn_output1 = F.scaled_dot_product_attention(
+        q1, k1, v1, dropout_p=dropout_p, causal=self.is_causal)
+TypeError: scaled_dot_product_attention() got an unexpected keyword argument 'causal'

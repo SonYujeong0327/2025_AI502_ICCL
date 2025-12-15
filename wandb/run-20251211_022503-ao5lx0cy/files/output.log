@@ -1,0 +1,33 @@
+[34m[1mwandb[0m: Detected [huggingface_hub.inference] in use.
+[34m[1mwandb[0m: Use W&B Weave for improved LLM call tracing. Install Weave with `pip install weave` then add `import weave` to the top of your script.
+[34m[1mwandb[0m: For more information, check out the docs at: https://weave-docs.wandb.ai/
+  0%|                                                                                          | 0/625 [00:00<?, ?it/s]Could not estimate the number of tokens of the input, floating-point operations will not be computed
+  0%|▏                                                                                 | 1/625 [00:02<27:55,  2.69s/it]Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/home/syj4739/coursework/default_project_release/train/dpo.py", line 136, in <module>
+    main()
+    ~~~~^^
+  File "/home/syj4739/coursework/default_project_release/train/dpo.py", line 130, in main
+    trainer.train()
+    ~~~~~~~~~~~~~^^
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/transformers/trainer.py", line 2325, in train
+    return inner_training_loop(
+        args=args,
+    ...<2 lines>...
+        ignore_keys_for_eval=ignore_keys_for_eval,
+    )
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/transformers/trainer.py", line 2756, in _inner_training_loop
+    self._maybe_log_save_evaluate(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        tr_loss,
+        ^^^^^^^^
+    ...<6 lines>...
+        learning_rate=learning_rate,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/transformers/trainer.py", line 3217, in _maybe_log_save_evaluate
+    self.log(logs, start_time)
+    ~~~~~~~~^^^^^^^^^^^^^^^^^^
+TypeError: DPOTrainer.log() takes 2 positional arguments but 3 were given

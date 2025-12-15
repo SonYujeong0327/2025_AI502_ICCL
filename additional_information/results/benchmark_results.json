@@ -1,0 +1,173 @@
+{
+  "timestamp": "2025-10-15T02:34:33.469858",
+  "config": {
+    "batch_size": 2,
+    "seq_length": 256,
+    "vocab_size": 1000,
+    "hidden_size": 512,
+    "num_hidden_layers": 4,
+    "num_warmup_steps": 10,
+    "num_benchmark_steps": 20,
+    "use_compile": false,
+    "compile_mode": "default",
+    "device": "cuda"
+  },
+  "default_model": {
+    "training": {
+      "wall_clock_time": {
+        "mean_ms": 19.079696014523506,
+        "std_ms": 2.1267104505988113,
+        "median_ms": 18.222847022116184,
+        "min_ms": 13.801971450448036,
+        "max_ms": 22.35439606010914,
+        "p95_ms": 22.328421380370855,
+        "p99_ms": 22.349201124161482
+      },
+      "memory": {
+        "peak_mb": 164.16943359375,
+        "final_mb": 62.4326171875,
+        "reserved_mb": 190.0
+      },
+      "throughput": {
+        "samples_per_sec": 104.8234729986052,
+        "tokens_per_sec": 26834.80908764293
+      }
+    },
+    "inference": {
+      "wall_clock_time": {
+        "mean_ms": 4.58770589902997,
+        "std_ms": 0.6414153128787772,
+        "median_ms": 4.413521848618984,
+        "min_ms": 4.382017999887466,
+        "max_ms": 7.3501355946063995,
+        "p95_ms": 4.978299979120495,
+        "p99_ms": 6.875768471509215
+      },
+      "memory": {
+        "peak_mb": 96.32861328125,
+        "final_mb": 63.40478515625,
+        "reserved_mb": 124.0
+      },
+      "throughput": {
+        "samples_per_sec": 435.94773597472374,
+        "tokens_per_sec": 111602.62040952928
+      }
+    },
+    "generation": {
+      "first_token_latency": {
+        "mean_ms": 4.8021127469837666,
+        "std_ms": 0.37241500285599205,
+        "median_ms": 4.714196547865868,
+        "p95_ms": 4.937216825783254,
+        "p99_ms": 6.09651956707239
+      },
+      "per_token_latency": {
+        "mean_ms": 4.3308039217835335,
+        "std_ms": 0.18796528177745034,
+        "median_ms": 4.306826740503311,
+        "p95_ms": 4.486863035708666,
+        "p99_ms": 4.716061968356373
+      },
+      "total_generation": {
+        "mean_ms": 562.953279633075,
+        "std_ms": 5.864206344073185,
+        "output_tokens": 128
+      },
+      "memory": {
+        "peak_mb": 88.1796875,
+        "final_mb": 62.9306640625
+      },
+      "throughput": {
+        "tokens_per_sec": 230.9040118325595
+      }
+    }
+  },
+  "custom_model": {
+    "training": {
+      "wall_clock_time": {
+        "mean_ms": 16.14392576739192,
+        "std_ms": 1.7198285826334332,
+        "median_ms": 15.49712847918272,
+        "min_ms": 13.852888718247414,
+        "max_ms": 20.263174548745155,
+        "p95_ms": 19.16627651080489,
+        "p99_ms": 20.043794941157103
+      },
+      "memory": {
+        "peak_mb": 134.26708984375,
+        "final_mb": 63.0107421875,
+        "reserved_mb": 146.0
+      },
+      "throughput": {
+        "samples_per_sec": 123.88560433297282,
+        "tokens_per_sec": 31714.71470924104
+      }
+    },
+    "inference": {
+      "wall_clock_time": {
+        "mean_ms": 4.067633859813213,
+        "std_ms": 0.5102039987541669,
+        "median_ms": 3.9029913023114204,
+        "min_ms": 3.8773566484451294,
+        "max_ms": 6.221264600753784,
+        "p95_ms": 4.46757646277547,
+        "p99_ms": 5.8705269731581184
+      },
+      "memory": {
+        "peak_mb": 92.50048828125,
+        "final_mb": 63.98291015625,
+        "reserved_mb": 102.0
+      },
+      "throughput": {
+        "samples_per_sec": 491.6863387728414,
+        "tokens_per_sec": 125871.7027258474
+      }
+    },
+    "generation": {
+      "first_token_latency": {
+        "mean_ms": 4.391448758542538,
+        "std_ms": 0.4915699349959925,
+        "median_ms": 4.2762961238622665,
+        "p95_ms": 4.5653674751520175,
+        "p99_ms": 6.1274934560060474
+      },
+      "per_token_latency": {
+        "mean_ms": 3.9643621834830975,
+        "std_ms": 0.08789407624388304,
+        "median_ms": 3.948562778532505,
+        "p95_ms": 4.099402483552694,
+        "p99_ms": 4.186784829944372
+      },
+      "total_generation": {
+        "mean_ms": 515.8817274495959,
+        "std_ms": 1.5832575325537346,
+        "output_tokens": 128
+      },
+      "memory": {
+        "peak_mb": 87.0546875,
+        "final_mb": 63.5087890625
+      },
+      "throughput": {
+        "tokens_per_sec": 252.24738651941175
+      }
+    }
+  },
+  "comparison": {
+    "training": {
+      "speedup": 1.1818498356243288,
+      "time_reduction_percent": 15.386881661515318,
+      "memory_reduction_mb": 29.90234375,
+      "memory_reduction_percent": 18.21431864350319
+    },
+    "inference": {
+      "speedup": 1.1278561584303064,
+      "time_reduction_percent": 11.33621140201514,
+      "memory_reduction_mb": 3.828125
+    },
+    "generation": {
+      "speedup": 1.0924339707979152,
+      "latency_reduction_percent": 8.461286747646756,
+      "first_token_speedup": 1.0935144666421026
+    }
+  }
+}

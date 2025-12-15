@@ -1,0 +1,125 @@
+  2%|█▋                                                                              | 21/1000 [00:18<13:06,  1.25it/s]Traceback (most recent call last):
+{'loss': 65.1875, 'grad_norm': 9.99651050567627, 'learning_rate': 2e-05, 'epoch': 0.0}
+{'loss': 70.5, 'grad_norm': 10.580618858337402, 'learning_rate': 1.9980000000000002e-05, 'epoch': 0.0}
+{'loss': 67.75, 'grad_norm': 10.648666381835938, 'learning_rate': 1.9960000000000002e-05, 'epoch': 0.0}
+{'loss': 65.8438, 'grad_norm': 10.157750129699707, 'learning_rate': 1.9940000000000002e-05, 'epoch': 0.0}
+{'loss': 69.9375, 'grad_norm': 11.56344985961914, 'learning_rate': 1.9920000000000002e-05, 'epoch': 0.0}
+{'loss': 67.2812, 'grad_norm': 10.748350143432617, 'learning_rate': 1.9900000000000003e-05, 'epoch': 0.0}
+{'loss': 69.5625, 'grad_norm': 10.926076889038086, 'learning_rate': 1.9880000000000003e-05, 'epoch': 0.0}
+{'loss': 67.7812, 'grad_norm': 12.750038146972656, 'learning_rate': 1.9860000000000003e-05, 'epoch': 0.0}
+{'loss': 67.5625, 'grad_norm': 11.962864875793457, 'learning_rate': 1.9840000000000003e-05, 'epoch': 0.0}
+{'loss': 64.9688, 'grad_norm': 10.763745307922363, 'learning_rate': 1.982e-05, 'epoch': 0.0}
+{'loss': 66.2188, 'grad_norm': 12.807788848876953, 'learning_rate': 1.98e-05, 'epoch': 0.0}
+{'loss': 66.25, 'grad_norm': 11.414713859558105, 'learning_rate': 1.978e-05, 'epoch': 0.0}
+{'loss': 66.6562, 'grad_norm': 12.486039161682129, 'learning_rate': 1.976e-05, 'epoch': 0.0}
+{'loss': 69.9375, 'grad_norm': 13.669787406921387, 'learning_rate': 1.974e-05, 'epoch': 0.0}
+{'loss': 67.8438, 'grad_norm': 12.81395435333252, 'learning_rate': 1.972e-05, 'epoch': 0.0}
+{'loss': 67.5938, 'grad_norm': 14.13782024383545, 'learning_rate': 1.97e-05, 'epoch': 0.0}
+{'loss': 70.75, 'grad_norm': 14.155535697937012, 'learning_rate': 1.968e-05, 'epoch': 0.0}
+{'loss': 65.0312, 'grad_norm': 13.2284517288208, 'learning_rate': 1.966e-05, 'epoch': 0.0}
+{'loss': 67.9688, 'grad_norm': 14.323596000671387, 'learning_rate': 1.9640000000000002e-05, 'epoch': 0.0}
+{'loss': 68.0312, 'grad_norm': 14.156059265136719, 'learning_rate': 1.9620000000000002e-05, 'epoch': 0.0}
+{'loss': 66.9375, 'grad_norm': 14.079245567321777, 'learning_rate': 1.9600000000000002e-05, 'epoch': 0.0}
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/home/syj4739/coursework/default_project_release/train/sft.py", line 191, in <module>
+    main()
+    ~~~~^^
+  File "/home/syj4739/coursework/default_project_release/train/sft.py", line 185, in main
+    trainer.train()
+    ~~~~~~~~~~~~~^^
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/trl/trainer/sft_trainer.py", line 360, in train
+    output = super().train(*args, **kwargs)
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/transformers/trainer.py", line 2325, in train
+    return inner_training_loop(
+        args=args,
+    ...<2 lines>...
+        ignore_keys_for_eval=ignore_keys_for_eval,
+    )
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/transformers/trainer.py", line 2674, in _inner_training_loop
+    tr_loss_step = self.training_step(model, inputs, num_items_in_batch)
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/transformers/trainer.py", line 4020, in training_step
+    loss = self.compute_loss(model, inputs, num_items_in_batch=num_items_in_batch)
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/transformers/trainer.py", line 4110, in compute_loss
+    outputs = model(**inputs)
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1775, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1786, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/peft/peft_model.py", line 1923, in forward
+    return self.base_model(
+           ~~~~~~~~~~~~~~~^
+        input_ids=input_ids,
+        ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    )
+    ^
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1775, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1786, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/peft/tuners/tuners_utils.py", line 308, in forward
+    return self.model.forward(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/home/syj4739/coursework/default_project_release/models/default_model.py", line 132, in forward
+    outputs = self.model(
+        input_ids=input_ids,
+    ...<5 lines>...
+        use_cache=use_cache,
+    )
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1775, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1786, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/syj4739/coursework/default_project_release/models/default_model.py", line 93, in forward
+    hidden_states = layer(
+        hidden_states,
+    ...<3 lines>...
+        position_embeddings=position_embeddings,
+    )
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/transformers/modeling_layers.py", line 94, in __call__
+    return super().__call__(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1775, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1786, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/syj4739/coursework/default_project_release/models/default_model.py", line 29, in forward
+    hidden_states = hidden_states + self.self_attn(
+                                    ~~~~~~~~~~~~~~^
+                                        hidden_states=self.pre_attention_layer_norm(hidden_states),
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+                                        position_embeddings=position_embeddings,
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                                    )
+                                    ^
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1775, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1786, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/syj4739/coursework/default_project_release/models/dtmodel/layers.py", line 215, in forward
+    key_states = self.k_proj(hidden_states)
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1775, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1786, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/peft/tuners/lora/layer.py", line 793, in forward
+    result = self.base_layer(x, *args, **kwargs)
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1775, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1786, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/torch/nn/modules/linear.py", line 134, in forward
+    return F.linear(input, self.weight, self.bias)
+           ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

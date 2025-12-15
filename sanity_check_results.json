@@ -1,0 +1,74 @@
+{
+  "timestamp": "2025-12-11T15:41:38.216998",
+  "summary": {
+    "total_tests": 11,
+    "passed": 11,
+    "failed": 0,
+    "success_rate": "100.0%",
+    "overall_status": "PASSED"
+  },
+  "environment": {
+    "device": "cuda",
+    "pytorch_version": "2.9.1+cu128",
+    "transformers_version": "4.57.3",
+    "cuda_available": true
+  },
+  "test_config": {
+    "batch_size": 2,
+    "seq_length": 32,
+    "vocab_size": 1000,
+    "hidden_size": 512,
+    "num_hidden_layers": 4,
+    "num_attention_heads": 8,
+    "num_key_value_heads": 2,
+    "rtol": 0.001,
+    "atol": 0.0001
+  },
+  "test_results": {
+    "Layer Structure Validation": {
+      "passed": true,
+      "details": {}
+    },
+    "RMSNorm Mathematical Correctness": {
+      "passed": true,
+      "details": {}
+    },
+    "RotaryEmbedding Correctness": {
+      "passed": true,
+      "details": {}
+    },
+    "Multi-Head Attention Forward": {
+      "passed": true,
+      "details": {}
+    },
+    "SwiGLU MLP Forward": {
+      "passed": true,
+      "details": {}
+    },
+    "TransformerDecoderLayer Forward": {
+      "passed": true,
+      "details": {}
+    },
+    "Full Model Forward Pass": {
+      "passed": true,
+      "details": {}
+    },
+    "Loss Calculation Correctness": {
+      "passed": true,
+      "details": {}
+    },
+    "KV Cache Correctness": {
+      "passed": true,
+      "details": {}
+    },
+    "Gradient Flow": {
+      "passed": true,
+      "details": {}
+    },
+    "Numerical Stability": {
+      "passed": true,
+      "details": {}
+    }
+  },
+  "errors": []
+}

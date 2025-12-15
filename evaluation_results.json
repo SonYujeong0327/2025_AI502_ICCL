@@ -1,0 +1,22 @@
+{
+    "model_name": "output_FT/my_dpo/checkpoint-625",
+    "evaluation_timestamp": "2025-12-11 17:44:12",
+    "model_params": {
+        "total": 158956800,
+        "total_human": "158.957M",
+        "trainable": 0,
+        "trainable_human": "0"
+    },
+    "perplexity": 6176.3466796875,
+    "performance": {
+        "avg_tokens_per_second": 25.54923325309766,
+        "std_tokens_per_second": 2.7428951382868694,
+        "avg_peak_memory_mb": 0.10714435577392578,
+        "std_peak_memory_mb": 0.08444272221160957,
+        "num_runs": 10
+    },
+    "mmlu": {
+        "accuracy": 0.25,
+        "num_samples": 100
+    }
+}

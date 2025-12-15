@@ -1,0 +1,11 @@
+{"time":"2025-12-11T02:04:27.488352846+09:00","level":"INFO","msg":"stream: starting","core version":"0.23.1"}
+{"time":"2025-12-11T02:04:27.872535919+09:00","level":"INFO","msg":"stream: created new stream","id":"r2gipsvx"}
+{"time":"2025-12-11T02:04:27.872701358+09:00","level":"INFO","msg":"handler: started","stream_id":"r2gipsvx"}
+{"time":"2025-12-11T02:04:27.874773028+09:00","level":"INFO","msg":"stream: started","id":"r2gipsvx"}
+{"time":"2025-12-11T02:04:27.874938097+09:00","level":"INFO","msg":"writer: started","stream_id":"r2gipsvx"}
+{"time":"2025-12-11T02:04:27.875021263+09:00","level":"INFO","msg":"sender: started","stream_id":"r2gipsvx"}
+{"time":"2025-12-11T02:16:27.669991119+09:00","level":"INFO","msg":"stream: closing","id":"r2gipsvx"}
+{"time":"2025-12-11T02:16:29.613660539+09:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-12-11T02:16:29.911101877+09:00","level":"INFO","msg":"handler: closed","stream_id":"r2gipsvx"}
+{"time":"2025-12-11T02:16:29.912384607+09:00","level":"INFO","msg":"sender: closed","stream_id":"r2gipsvx"}
+{"time":"2025-12-11T02:16:29.912416746+09:00","level":"INFO","msg":"stream: closed","id":"r2gipsvx"}

@@ -1,0 +1,84 @@
+                                                                                                                       
+{'loss': 186.0, 'grad_norm': 68.0, 'learning_rate': 5e-05, 'epoch': 0.06, 'num_input_tokens_seen': 131072, 'train_runtime': 15.2161, 'train_tokens_per_second': 8614.051}
+{'loss': 182.5, 'grad_norm': 60.75, 'learning_rate': 4.995e-05, 'epoch': 0.11, 'num_input_tokens_seen': 262144, 'train_runtime': 25.0126, 'train_tokens_per_second': 10480.493}
+{'loss': 179.8125, 'grad_norm': 45.25, 'learning_rate': 4.99e-05, 'epoch': 0.17, 'num_input_tokens_seen': 393216, 'train_runtime': 34.7867, 'train_tokens_per_second': 11303.621}
+{'loss': 177.9375, 'grad_norm': 43.25, 'learning_rate': 4.9850000000000006e-05, 'epoch': 0.22, 'num_input_tokens_seen': 524288, 'train_runtime': 44.5366, 'train_tokens_per_second': 11772.058}
+{'loss': 176.6875, 'grad_norm': 37.25, 'learning_rate': 4.9800000000000004e-05, 'epoch': 0.28, 'num_input_tokens_seen': 655360, 'train_runtime': 54.2995, 'train_tokens_per_second': 12069.365}
+{'loss': 175.0625, 'grad_norm': 36.5, 'learning_rate': 4.975e-05, 'epoch': 0.33, 'num_input_tokens_seen': 786432, 'train_runtime': 64.0773, 'train_tokens_per_second': 12273.167}
+{'loss': 174.0, 'grad_norm': 34.5, 'learning_rate': 4.97e-05, 'epoch': 0.39, 'num_input_tokens_seen': 917504, 'train_runtime': 73.8695, 'train_tokens_per_second': 12420.614}
+{'loss': 172.875, 'grad_norm': 34.75, 'learning_rate': 4.965e-05, 'epoch': 0.44, 'num_input_tokens_seen': 1048576, 'train_runtime': 83.6718, 'train_tokens_per_second': 12532.011}
+{'loss': 171.6875, 'grad_norm': 34.25, 'learning_rate': 4.96e-05, 'epoch': 0.5, 'num_input_tokens_seen': 1179648, 'train_runtime': 93.4895, 'train_tokens_per_second': 12617.967}
+{'loss': 171.1875, 'grad_norm': 33.5, 'learning_rate': 4.9550000000000005e-05, 'epoch': 0.55, 'num_input_tokens_seen': 1310720, 'train_runtime': 103.3102, 'train_tokens_per_second': 12687.227}
+{'loss': 170.5, 'grad_norm': 33.25, 'learning_rate': 4.9500000000000004e-05, 'epoch': 0.61, 'num_input_tokens_seen': 1441792, 'train_runtime': 113.1299, 'train_tokens_per_second': 12744.568}
+{'loss': 169.8125, 'grad_norm': 33.25, 'learning_rate': 4.945e-05, 'epoch': 0.66, 'num_input_tokens_seen': 1572864, 'train_runtime': 123.0059, 'train_tokens_per_second': 12786.898}
+{'loss': 169.0625, 'grad_norm': 34.0, 'learning_rate': 4.94e-05, 'epoch': 0.72, 'num_input_tokens_seen': 1703936, 'train_runtime': 132.8367, 'train_tokens_per_second': 12827.296}
+{'loss': 168.6875, 'grad_norm': 33.5, 'learning_rate': 4.935e-05, 'epoch': 0.77, 'num_input_tokens_seen': 1835008, 'train_runtime': 142.6787, 'train_tokens_per_second': 12861.123}
+{'loss': 168.375, 'grad_norm': 32.75, 'learning_rate': 4.93e-05, 'epoch': 0.83, 'num_input_tokens_seen': 1966080, 'train_runtime': 152.5182, 'train_tokens_per_second': 12890.786}
+{'loss': 167.75, 'grad_norm': 32.5, 'learning_rate': 4.9250000000000004e-05, 'epoch': 0.88, 'num_input_tokens_seen': 2097152, 'train_runtime': 162.4102, 'train_tokens_per_second': 12912.685}
+{'loss': 167.3125, 'grad_norm': 33.25, 'learning_rate': 4.92e-05, 'epoch': 0.94, 'num_input_tokens_seen': 2228224, 'train_runtime': 172.2568, 'train_tokens_per_second': 12935.481}
+{'loss': 166.6875, 'grad_norm': 33.25, 'learning_rate': 4.915e-05, 'epoch': 0.99, 'num_input_tokens_seen': 2359296, 'train_runtime': 182.0992, 'train_tokens_per_second': 12956.105}
+{'loss': 20.625, 'grad_norm': 5.0, 'learning_rate': 4.91e-05, 'epoch': 1.0, 'num_input_tokens_seen': 2375680, 'train_runtime': 183.3312, 'train_tokens_per_second': 12958.409}
+{'loss': 165.625, 'grad_norm': 33.75, 'learning_rate': 4.905e-05, 'epoch': 1.06, 'num_input_tokens_seen': 2506752, 'train_runtime': 193.1895, 'train_tokens_per_second': 12975.615}
+{'loss': 165.5625, 'grad_norm': 33.75, 'learning_rate': 4.9e-05, 'epoch': 1.11, 'num_input_tokens_seen': 2637824, 'train_runtime': 203.0816, 'train_tokens_per_second': 12988.988}
+{'loss': 165.375, 'grad_norm': 33.25, 'learning_rate': 4.8950000000000004e-05, 'epoch': 1.17, 'num_input_tokens_seen': 2768896, 'train_runtime': 212.9293, 'train_tokens_per_second': 13003.826}
+{'loss': 165.0, 'grad_norm': 33.0, 'learning_rate': 4.89e-05, 'epoch': 1.22, 'num_input_tokens_seen': 2899968, 'train_runtime': 222.778, 'train_tokens_per_second': 13017.298}
+{'loss': 164.0625, 'grad_norm': 33.5, 'learning_rate': 4.885e-05, 'epoch': 1.28, 'num_input_tokens_seen': 3031040, 'train_runtime': 232.6301, 'train_tokens_per_second': 13029.443}
+{'loss': 163.9375, 'grad_norm': 33.25, 'learning_rate': 4.88e-05, 'epoch': 1.33, 'num_input_tokens_seen': 3162112, 'train_runtime': 242.4752, 'train_tokens_per_second': 13040.969}
+{'loss': 163.5, 'grad_norm': 33.0, 'learning_rate': 4.875e-05, 'epoch': 1.39, 'num_input_tokens_seen': 3293184, 'train_runtime': 252.3225, 'train_tokens_per_second': 13051.488}
+{'loss': 162.9375, 'grad_norm': 33.5, 'learning_rate': 4.87e-05, 'epoch': 1.44, 'num_input_tokens_seen': 3424256, 'train_runtime': 262.1728, 'train_tokens_per_second': 13061.065}
+{'loss': 162.375, 'grad_norm': 33.25, 'learning_rate': 4.8650000000000003e-05, 'epoch': 1.5, 'num_input_tokens_seen': 3555328, 'train_runtime': 272.0688, 'train_tokens_per_second': 13067.754}
+{'loss': 161.375, 'grad_norm': 34.75, 'learning_rate': 4.86e-05, 'epoch': 1.55, 'num_input_tokens_seen': 3686400, 'train_runtime': 281.9173, 'train_tokens_per_second': 13076.176}
+{'loss': 160.6875, 'grad_norm': 34.0, 'learning_rate': 4.855e-05, 'epoch': 1.61, 'num_input_tokens_seen': 3817472, 'train_runtime': 291.7686, 'train_tokens_per_second': 13083.904}
+{'loss': 160.8125, 'grad_norm': 35.0, 'learning_rate': 4.85e-05, 'epoch': 1.66, 'num_input_tokens_seen': 3948544, 'train_runtime': 301.6179, 'train_tokens_per_second': 13091.213}
+{'loss': 159.875, 'grad_norm': 34.75, 'learning_rate': 4.845e-05, 'epoch': 1.72, 'num_input_tokens_seen': 4079616, 'train_runtime': 311.4666, 'train_tokens_per_second': 13098.085}
+{'loss': 159.375, 'grad_norm': 34.25, 'learning_rate': 4.8400000000000004e-05, 'epoch': 1.77, 'num_input_tokens_seen': 4210688, 'train_runtime': 321.3181, 'train_tokens_per_second': 13104.424}
+{'loss': 159.25, 'grad_norm': 33.75, 'learning_rate': 4.835e-05, 'epoch': 1.83, 'num_input_tokens_seen': 4341760, 'train_runtime': 331.2183, 'train_tokens_per_second': 13108.454}
+{'loss': 158.5, 'grad_norm': 34.5, 'learning_rate': 4.83e-05, 'epoch': 1.88, 'num_input_tokens_seen': 4472832, 'train_runtime': 341.0667, 'train_tokens_per_second': 13114.245}
+{'loss': 158.25, 'grad_norm': 33.75, 'learning_rate': 4.825e-05, 'epoch': 1.94, 'num_input_tokens_seen': 4603904, 'train_runtime': 350.9553, 'train_tokens_per_second': 13118.208}
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/home/syj4739/coursework/default_project_release/train_vanilla/pretrain.py", line 162, in <module>
+    main()
+    ~~~~^^
+  File "/home/syj4739/coursework/default_project_release/train_vanilla/pretrain.py", line 159, in main
+    trainer.train()
+    ~~~~~~~~~~~~~^^
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/transformers/trainer.py", line 2325, in train
+    return inner_training_loop(
+        args=args,
+    ...<2 lines>...
+        ignore_keys_for_eval=ignore_keys_for_eval,
+    )
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/transformers/trainer.py", line 2674, in _inner_training_loop
+    tr_loss_step = self.training_step(model, inputs, num_items_in_batch)
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/transformers/trainer.py", line 4071, in training_step
+    self.accelerator.backward(loss, **kwargs)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/accelerate/accelerator.py", line 2852, in backward
+    loss.backward(**kwargs)
+    ~~~~~~~~~~~~~^^^^^^^^^^
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/torch/_tensor.py", line 625, in backward
+    torch.autograd.backward(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        self, gradient, retain_graph, create_graph, inputs=inputs
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/torch/autograd/__init__.py", line 354, in backward
+    _engine_run_backward(
+    ~~~~~~~~~~~~~~~~~~~~^
+        tensors,
+        ^^^^^^^^
+    ...<5 lines>...
+        accumulate_grad=True,
+        ^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/torch/autograd/graph.py", line 841, in _engine_run_backward
+    return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        t_outputs, *args, **kwargs
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )  # Calls into the C++ engine to run the backward pass
+    ^
+KeyboardInterrupt

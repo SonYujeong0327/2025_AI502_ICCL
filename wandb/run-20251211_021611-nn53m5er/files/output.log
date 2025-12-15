@@ -1,0 +1,19 @@
+  0%|                                                                                          | 0/625 [00:00<?, ?it/s]Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/home/syj4739/coursework/default_project_release/train/dpo.py", line 138, in <module>
+    main()
+    ~~~~^^
+  File "/home/syj4739/coursework/default_project_release/train/dpo.py", line 132, in main
+    trainer.train()
+    ~~~~~~~~~~~~~^^
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/transformers/trainer.py", line 2325, in train
+    return inner_training_loop(
+        args=args,
+    ...<2 lines>...
+        ignore_keys_for_eval=ignore_keys_for_eval,
+    )
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/transformers/trainer.py", line 2618, in _inner_training_loop
+    batch_samples, num_items_in_batch = self.get_batch_samples(epoch_iterator, num_batches, args.device)
+                                        ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: DPOTrainer.get_batch_samples() takes 3 positional arguments but 4 were given

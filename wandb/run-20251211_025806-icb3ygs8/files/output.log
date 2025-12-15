@@ -1,0 +1,139 @@
+                                                                                                                       
+{'loss': 72.4375, 'grad_norm': 13.037886619567871, 'learning_rate': 0.0002, 'epoch': 0.0}
+{'loss': 79.375, 'grad_norm': 11.688272476196289, 'learning_rate': 0.0001998, 'epoch': 0.0}
+{'loss': 74.9375, 'grad_norm': 10.33636474609375, 'learning_rate': 0.0001996, 'epoch': 0.0}
+{'loss': 72.3125, 'grad_norm': 6.7128777503967285, 'learning_rate': 0.00019940000000000002, 'epoch': 0.0}
+{'loss': 77.625, 'grad_norm': 7.034311771392822, 'learning_rate': 0.00019920000000000002, 'epoch': 0.0}
+{'loss': 73.0625, 'grad_norm': 7.826329231262207, 'learning_rate': 0.000199, 'epoch': 0.0}
+{'loss': 76.1875, 'grad_norm': 7.208799362182617, 'learning_rate': 0.0001988, 'epoch': 0.0}
+{'loss': 73.9375, 'grad_norm': 8.643545150756836, 'learning_rate': 0.0001986, 'epoch': 0.0}
+{'loss': 73.0625, 'grad_norm': 6.357388496398926, 'learning_rate': 0.0001984, 'epoch': 0.0}
+{'loss': 69.4062, 'grad_norm': 5.508808612823486, 'learning_rate': 0.00019820000000000002, 'epoch': 0.0}
+{'loss': 71.25, 'grad_norm': 5.206621170043945, 'learning_rate': 0.00019800000000000002, 'epoch': 0.0}
+{'loss': 70.5, 'grad_norm': 6.433121204376221, 'learning_rate': 0.0001978, 'epoch': 0.0}
+{'loss': 70.25, 'grad_norm': 6.195286273956299, 'learning_rate': 0.0001976, 'epoch': 0.0}
+{'loss': 75.1562, 'grad_norm': 6.3540191650390625, 'learning_rate': 0.0001974, 'epoch': 0.0}
+{'loss': 71.5, 'grad_norm': 6.869096279144287, 'learning_rate': 0.0001972, 'epoch': 0.0}
+{'loss': 71.5, 'grad_norm': 6.133650779724121, 'learning_rate': 0.00019700000000000002, 'epoch': 0.0}
+{'loss': 76.125, 'grad_norm': 7.6589250564575195, 'learning_rate': 0.0001968, 'epoch': 0.0}
+{'loss': 68.0938, 'grad_norm': 5.381960391998291, 'learning_rate': 0.0001966, 'epoch': 0.0}
+{'loss': 71.5625, 'grad_norm': 5.848217010498047, 'learning_rate': 0.0001964, 'epoch': 0.0}
+{'loss': 70.8125, 'grad_norm': 7.674802303314209, 'learning_rate': 0.0001962, 'epoch': 0.0}
+{'loss': 69.5625, 'grad_norm': 7.080933570861816, 'learning_rate': 0.000196, 'epoch': 0.0}
+{'loss': 67.3125, 'grad_norm': 5.377156734466553, 'learning_rate': 0.00019580000000000002, 'epoch': 0.0}
+{'loss': 70.5625, 'grad_norm': 7.089254379272461, 'learning_rate': 0.0001956, 'epoch': 0.0}
+{'loss': 67.2812, 'grad_norm': 6.841393947601318, 'learning_rate': 0.0001954, 'epoch': 0.0}
+{'loss': 67.0, 'grad_norm': 5.320904731750488, 'learning_rate': 0.0001952, 'epoch': 0.0}
+{'loss': 71.2188, 'grad_norm': 5.781160354614258, 'learning_rate': 0.000195, 'epoch': 0.0}
+{'loss': 70.1875, 'grad_norm': 6.543426990509033, 'learning_rate': 0.0001948, 'epoch': 0.0}
+{'loss': 70.5938, 'grad_norm': 6.52318000793457, 'learning_rate': 0.00019460000000000001, 'epoch': 0.0}
+{'loss': 65.5312, 'grad_norm': 5.88979434967041, 'learning_rate': 0.0001944, 'epoch': 0.0}
+{'loss': 64.2188, 'grad_norm': 5.874457359313965, 'learning_rate': 0.0001942, 'epoch': 0.0}
+{'loss': 69.4688, 'grad_norm': 5.761454105377197, 'learning_rate': 0.000194, 'epoch': 0.0}
+{'loss': 65.9688, 'grad_norm': 6.00073766708374, 'learning_rate': 0.0001938, 'epoch': 0.0}
+{'loss': 67.0, 'grad_norm': 6.190463542938232, 'learning_rate': 0.00019360000000000002, 'epoch': 0.0}
+{'loss': 65.0312, 'grad_norm': 6.985766887664795, 'learning_rate': 0.0001934, 'epoch': 0.0}
+{'loss': 66.5, 'grad_norm': 6.426523208618164, 'learning_rate': 0.0001932, 'epoch': 0.0}
+{'loss': 63.7812, 'grad_norm': 6.412139415740967, 'learning_rate': 0.000193, 'epoch': 0.0}
+{'loss': 65.25, 'grad_norm': 6.6561598777771, 'learning_rate': 0.0001928, 'epoch': 0.0}
+{'loss': 66.875, 'grad_norm': 6.855392932891846, 'learning_rate': 0.0001926, 'epoch': 0.0}
+{'loss': 65.2812, 'grad_norm': 6.447093963623047, 'learning_rate': 0.00019240000000000001, 'epoch': 0.0}
+{'loss': 63.5625, 'grad_norm': 6.892030239105225, 'learning_rate': 0.0001922, 'epoch': 0.0}
+{'loss': 64.3125, 'grad_norm': 6.513373374938965, 'learning_rate': 0.000192, 'epoch': 0.0}
+{'loss': 63.875, 'grad_norm': 6.015484809875488, 'learning_rate': 0.0001918, 'epoch': 0.0}
+{'loss': 59.625, 'grad_norm': 5.381712913513184, 'learning_rate': 0.0001916, 'epoch': 0.0}
+{'loss': 67.125, 'grad_norm': 7.3668060302734375, 'learning_rate': 0.0001914, 'epoch': 0.0}
+{'loss': 63.25, 'grad_norm': 5.10890531539917, 'learning_rate': 0.0001912, 'epoch': 0.0}
+{'loss': 59.75, 'grad_norm': 5.459354877471924, 'learning_rate': 0.000191, 'epoch': 0.0}
+{'loss': 64.8125, 'grad_norm': 6.584995746612549, 'learning_rate': 0.0001908, 'epoch': 0.0}
+{'loss': 60.875, 'grad_norm': 4.322167873382568, 'learning_rate': 0.0001906, 'epoch': 0.0}
+{'loss': 59.1562, 'grad_norm': 4.537369728088379, 'learning_rate': 0.0001904, 'epoch': 0.0}
+{'loss': 61.6875, 'grad_norm': 4.545797824859619, 'learning_rate': 0.0001902, 'epoch': 0.0}
+{'loss': 61.3125, 'grad_norm': 4.162795543670654, 'learning_rate': 0.00019, 'epoch': 0.0}
+{'loss': 60.7812, 'grad_norm': 4.602071762084961, 'learning_rate': 0.0001898, 'epoch': 0.0}
+{'loss': 59.6875, 'grad_norm': 4.790128231048584, 'learning_rate': 0.0001896, 'epoch': 0.0}
+{'loss': 63.375, 'grad_norm': 5.1338396072387695, 'learning_rate': 0.0001894, 'epoch': 0.0}
+{'loss': 60.125, 'grad_norm': 3.626265048980713, 'learning_rate': 0.0001892, 'epoch': 0.0}
+{'loss': 63.0938, 'grad_norm': 5.54934024810791, 'learning_rate': 0.00018899999999999999, 'epoch': 0.0}
+{'loss': 61.0312, 'grad_norm': 4.567793846130371, 'learning_rate': 0.0001888, 'epoch': 0.0}
+{'loss': 61.7188, 'grad_norm': 6.589209079742432, 'learning_rate': 0.0001886, 'epoch': 0.0}
+{'loss': 61.9375, 'grad_norm': 4.186051368713379, 'learning_rate': 0.0001884, 'epoch': 0.0}
+{'loss': 60.8125, 'grad_norm': 4.304683685302734, 'learning_rate': 0.0001882, 'epoch': 0.0}
+{'loss': 60.8125, 'grad_norm': 4.397589683532715, 'learning_rate': 0.000188, 'epoch': 0.0}
+{'loss': 58.2188, 'grad_norm': 4.999729156494141, 'learning_rate': 0.0001878, 'epoch': 0.0}
+{'loss': 60.25, 'grad_norm': 4.571499824523926, 'learning_rate': 0.0001876, 'epoch': 0.0}
+{'loss': 60.3438, 'grad_norm': 5.074585437774658, 'learning_rate': 0.00018740000000000003, 'epoch': 0.0}
+{'loss': 64.1562, 'grad_norm': 7.534891128540039, 'learning_rate': 0.00018720000000000002, 'epoch': 0.0}
+{'loss': 58.8438, 'grad_norm': 3.750272512435913, 'learning_rate': 0.00018700000000000002, 'epoch': 0.0}
+{'loss': 58.375, 'grad_norm': 3.879187822341919, 'learning_rate': 0.00018680000000000001, 'epoch': 0.0}
+{'loss': 59.9375, 'grad_norm': 3.750884771347046, 'learning_rate': 0.0001866, 'epoch': 0.0}
+{'loss': 59.5625, 'grad_norm': 4.154288291931152, 'learning_rate': 0.00018640000000000003, 'epoch': 0.0}
+{'loss': 59.4062, 'grad_norm': 4.298625946044922, 'learning_rate': 0.00018620000000000003, 'epoch': 0.0}
+{'loss': 58.2812, 'grad_norm': 4.9015116691589355, 'learning_rate': 0.00018600000000000002, 'epoch': 0.0}
+{'loss': 59.5, 'grad_norm': 3.8295719623565674, 'learning_rate': 0.00018580000000000002, 'epoch': 0.0}
+{'loss': 56.4062, 'grad_norm': 5.120049953460693, 'learning_rate': 0.0001856, 'epoch': 0.0}
+{'loss': 57.125, 'grad_norm': 4.513679027557373, 'learning_rate': 0.0001854, 'epoch': 0.0}
+{'loss': 59.125, 'grad_norm': 4.175446033477783, 'learning_rate': 0.00018520000000000003, 'epoch': 0.0}
+{'loss': 56.625, 'grad_norm': 4.06619930267334, 'learning_rate': 0.00018500000000000002, 'epoch': 0.0}
+{'loss': 60.4062, 'grad_norm': 6.025648593902588, 'learning_rate': 0.00018480000000000002, 'epoch': 0.0}
+{'loss': 56.9688, 'grad_norm': 4.490994453430176, 'learning_rate': 0.00018460000000000001, 'epoch': 0.0}
+{'loss': 57.8125, 'grad_norm': 4.593103408813477, 'learning_rate': 0.0001844, 'epoch': 0.0}
+{'loss': 57.75, 'grad_norm': 4.327900409698486, 'learning_rate': 0.0001842, 'epoch': 0.0}
+{'loss': 57.125, 'grad_norm': 4.00560998916626, 'learning_rate': 0.00018400000000000003, 'epoch': 0.01}
+` in the following instance: <|user|>
+Please answer the following question: Information:  - Bari dialect ("dialetto barese") is a dialect of Neapolitan spoken in the Apulia and Basilicata regions of Italy. Influences range from Old French due to Norman and Angevin rule, to an ancient pre-Roman Illyrian substratum, creating one of the most distinct Italian dialects both from phonetics and lexis point of view.  - Normandy (pronounced , Norman: "Normaundie", from Old French "Normanz", plural of "Normant", originally from the word for "northman" in several Scandinavian languages) is one of the regions of France, roughly corresponding to the historical Duchy of Normandy.  - Saint Nicholas; (15 March 270  6 December 343), also called Nikolaos of Myra, was a historic 4th-century Christian saint and Greek Bishop of Myra, in Asia Minor (modern-day Demre, Turkey). Because of the many miracles attributed to his intercession, he is also known as Nikolaos the Wonderworker. His reputation evolved among the faithful, as was common for early Christian saints, and his legendary habit of secret gift-giving gave rise to the traditional model of Santa Claus through Sinterklaas.  - The Battle of Cerignola was fought on April 28 , 1503 , between Spanish and French armies , in Cerignola , near Bari in Southern Italy . Spanish forces , under Gonzalo Fernández de Córdoba , formed by 6,300 men , including 2,000 landsknechte , with more than 1,000 arquebusiers , and 20 cannons , defeated the French who had 9,000 men ; mainly heavy gendarme cavalry and Swiss mercenary pikemen , with about 40 cannons , and led by Louis d'Armagnac , Duke of Nemours , who was killed .  - Louis d'Armagnac, Duke of Nemours (1472, Normandy; April 28, 1503, Cerignola, Italy), known for most of his life as the Count of Guise, was the third son of Jacques d'Armagnac, Duke of Nemours and Louise of Anjou.  - Apulia ( Apoulia) is a region of Italy in Southern Italy bordering the Adriatic Sea in the east, the Ionian Sea to the southeast, and the Strait of Òtranto and Gulf of Taranto in the south. Its southernmost portion, known as the Salento peninsula, forms a "stiletto" on the "boot" of Italy. The region comprises , and its population is about 4 million.  - In geography, regions are areas that are broadly divided by physical characteristics (physical geography), human impact characteristics (human geography), and the interaction of humanity and the environment (environmental geography). Geographic regions and sub-regions are mostly described by their imprecisely defined, and sometimes transitory boundaries, except in human geography, where jurisdiction areas such as national borders are defined in law.  - Ravenna (also locally ) is the capital city of the Province of Ravenna, in the Emilia-Romagna region of Northern Italy. It was the capital city of the Western Roman Empire from 402 until that empire collapsed in 476. It then served as the capital of the Kingdom of the Ostrogoths until it was re-conquered in 540 by the Eastern Roman (Byzantine) Empire. Afterwards, the city formed the centre of the Byzantine Exarchate of Ravenna until the invasion of the Lombards in 751, after which it became the seat of the Kingdom of the Lombards.  - The (plural: "") is a basic administrative division in Italy, roughly equivalent to a township or municipality.  - Foggia is a city and "comune" of Apulia, in southern Italy, capital of the province of Foggia. In 2013 its population was 153,143. Foggia is the main city of a plain called Tavoliere, also known as the "granary of Italy".  - Southern Italy or Mezzogiorno (literally "midday") is the traditional term for the southern regions of Italy, encompassing the southern section of the continental Italian Peninsula, the island of Sicily, and usually the island of Sardinia. It generally coincides with the administrative regions of Abruzzo, Apulia, Basilicata, Campania, Calabria, Molise, Sicily, and Sardinia. Some also include the most southern and eastern parts of Lazio (Sora, Cassino, Gaeta, Cittaducale and Amatrice districts) within the "Mezzogiorno", because these territories were
+  warnings.warn(
+ 10%|███████▉                                                                       | 100/1000 [01:31<12:53,  1.16it/s]You are using a model of type dt_model to instantiate a model of type DefaultTransformer. This is not supported for all configurations of models and can yield errors.
+{'loss': 58.7188, 'grad_norm': 3.8875205516815186, 'learning_rate': 0.00018380000000000002, 'epoch': 0.01}
+{'loss': 57.5312, 'grad_norm': 4.532020568847656, 'learning_rate': 0.00018360000000000002, 'epoch': 0.01}
+{'loss': 58.8438, 'grad_norm': 4.109419822692871, 'learning_rate': 0.0001834, 'epoch': 0.01}
+{'loss': 61.1875, 'grad_norm': 4.341283321380615, 'learning_rate': 0.0001832, 'epoch': 0.01}
+{'loss': 55.9688, 'grad_norm': 5.329007625579834, 'learning_rate': 0.000183, 'epoch': 0.01}
+{'loss': 59.125, 'grad_norm': 4.507818698883057, 'learning_rate': 0.00018280000000000003, 'epoch': 0.01}
+{'loss': 59.9375, 'grad_norm': 4.589686393737793, 'learning_rate': 0.00018260000000000002, 'epoch': 0.01}
+{'loss': 55.625, 'grad_norm': 3.6201229095458984, 'learning_rate': 0.00018240000000000002, 'epoch': 0.01}
+{'loss': 57.1562, 'grad_norm': 4.120615005493164, 'learning_rate': 0.0001822, 'epoch': 0.01}
+{'loss': 59.0625, 'grad_norm': 4.430893898010254, 'learning_rate': 0.000182, 'epoch': 0.01}
+{'loss': 54.75, 'grad_norm': 3.8458571434020996, 'learning_rate': 0.00018180000000000003, 'epoch': 0.01}
+{'loss': 59.25, 'grad_norm': 4.582906246185303, 'learning_rate': 0.00018160000000000002, 'epoch': 0.01}
+{'loss': 55.9688, 'grad_norm': 5.848931312561035, 'learning_rate': 0.00018140000000000002, 'epoch': 0.01}
+{'loss': 58.7812, 'grad_norm': 4.045872211456299, 'learning_rate': 0.0001812, 'epoch': 0.01}
+{'loss': 57.6875, 'grad_norm': 4.099773406982422, 'learning_rate': 0.000181, 'epoch': 0.01}
+{'loss': 55.8125, 'grad_norm': 4.357548713684082, 'learning_rate': 0.0001808, 'epoch': 0.01}
+{'loss': 56.6875, 'grad_norm': 3.8248722553253174, 'learning_rate': 0.00018060000000000003, 'epoch': 0.01}
+{'loss': 58.2188, 'grad_norm': 3.7488906383514404, 'learning_rate': 0.00018040000000000002, 'epoch': 0.01}
+{'loss': 58.0938, 'grad_norm': 4.835208415985107, 'learning_rate': 0.00018020000000000002, 'epoch': 0.01}
+ 12%|█████████                                                                      | 115/1000 [01:45<12:23,  1.19it/s]Traceback (most recent call last):
+{'loss': 56.75, 'grad_norm': 4.607701778411865, 'learning_rate': 0.00018, 'epoch': 0.01}
+{'loss': 57.3125, 'grad_norm': 3.5765326023101807, 'learning_rate': 0.0001798, 'epoch': 0.01}
+{'loss': 57.9062, 'grad_norm': 4.005027770996094, 'learning_rate': 0.0001796, 'epoch': 0.01}
+{'loss': 57.5312, 'grad_norm': 5.491199493408203, 'learning_rate': 0.00017940000000000002, 'epoch': 0.01}
+{'loss': 60.3438, 'grad_norm': 4.743762969970703, 'learning_rate': 0.00017920000000000002, 'epoch': 0.01}
+{'loss': 60.25, 'grad_norm': 4.961863040924072, 'learning_rate': 0.00017900000000000001, 'epoch': 0.01}
+{'loss': 57.7188, 'grad_norm': 4.312954902648926, 'learning_rate': 0.0001788, 'epoch': 0.01}
+{'loss': 56.5312, 'grad_norm': 4.199502468109131, 'learning_rate': 0.0001786, 'epoch': 0.01}
+{'loss': 55.0938, 'grad_norm': 4.414011478424072, 'learning_rate': 0.0001784, 'epoch': 0.01}
+{'loss': 56.125, 'grad_norm': 5.389724254608154, 'learning_rate': 0.00017820000000000002, 'epoch': 0.01}
+{'loss': 57.75, 'grad_norm': 4.44980525970459, 'learning_rate': 0.00017800000000000002, 'epoch': 0.01}
+{'loss': 55.2812, 'grad_norm': 4.332137584686279, 'learning_rate': 0.0001778, 'epoch': 0.01}
+{'loss': 57.1562, 'grad_norm': 4.843441009521484, 'learning_rate': 0.0001776, 'epoch': 0.01}
+{'loss': 56.3438, 'grad_norm': 5.032937049865723, 'learning_rate': 0.0001774, 'epoch': 0.01}
+{'loss': 57.0938, 'grad_norm': 3.8237814903259277, 'learning_rate': 0.0001772, 'epoch': 0.01}
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/home/syj4739/coursework/default_project_release/train/sft.py", line 191, in <module>
+    main()
+    ~~~~^^
+  File "/home/syj4739/coursework/default_project_release/train/sft.py", line 185, in main
+    trainer.train()
+    ~~~~~~~~~~~~~^^
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/transformers/trainer.py", line 2325, in train
+    return inner_training_loop(
+        args=args,
+    ...<2 lines>...
+        ignore_keys_for_eval=ignore_keys_for_eval,
+    )
+  File "/home/syj4739/venv_313/lib/python3.13/site-packages/transformers/trainer.py", line 2679, in _inner_training_loop
+    and (torch.isnan(tr_loss_step) or torch.isinf(tr_loss_step))
+                                      ~~~~~~~~~~~^^^^^^^^^^^^^^
+KeyboardInterrupt
